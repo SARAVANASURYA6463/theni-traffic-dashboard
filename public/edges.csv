@@ -1,0 +1,624 @@
+edge_id,source_node,target_node,highway_type,road_name,length_m
+0,0,1,residential,nan,120.2
+131,0,173,tertiary,nan,90.5
+132,0,174,tertiary,nan,57.7
+1,1,2,residential,nan,16.6
+290,1,30,residential,nan,265.6
+2,2,3,residential,nan,38.2
+399,2,387,residential,nan,62.2
+3,3,4,residential,nan,92.6
+582,3,223,residential,nan,126.4
+4,4,5,residential,nan,21.1
+180,4,223,residential,nan,166.1
+544,5,466,trunk,Madurai Salai,38.6
+545,5,467,trunk,Madurai Salai,114.5
+5,6,7,residential,nan,19.9
+503,6,452,residential,nan,374.0
+504,7,300,residential,nan,10.8
+6,8,9,primary,Theni - Venkatachalapuram - Chinnamanur Road,28478.8
+431,9,247,primary,Theni - Venkatachalapuram - Chinnamanur Road,88.8
+7,10,11,residential,nan,38.6
+282,10,300,residential,nan,101.3
+283,10,153,residential,nan,38.5
+8,11,12,residential,nan,50.5
+595,11,67,residential,nan,113.4
+183,12,68,residential,nan,95.7
+184,12,225,residential,nan,34.9
+9,13,14,residential,nan,41.1
+99,13,136,residential,nan,36.4
+520,13,446,residential,nan,36.9
+521,13,445,residential,nan,49.1
+10,14,15,residential,nan,17.5
+69,14,97,residential,nan,68.2
+70,14,98,residential,nan,30.8
+11,15,16,residential,nan,23.2
+71,15,99,residential,nan,74.0
+12,16,17,residential,nan,13.5
+100,16,137,residential,nan,11.0
+13,17,18,residential,nan,37.4
+317,17,137,residential,nan,7.5
+14,18,19,residential,nan,17.6
+315,18,325,residential,nan,51.2
+15,19,20,residential,nan,22.7
+227,19,261,residential,nan,56.2
+16,20,21,residential,nan,4.4
+559,20,471,residential,nan,43.3
+17,21,22,residential,nan,25.3
+334,21,204,residential,nan,85.8
+18,22,23,residential,nan,47.1
+327,22,325,residential,nan,32.2
+19,23,24,residential,nan,50.8
+332,23,336,residential,nan,24.2
+485,24,444,residential,nan,8.1
+486,24,324,residential,nan,72.1
+20,25,26,residential,nan,53.9
+563,25,148,tertiary,nan,403.0
+564,25,473,tertiary,nan,143.7
+21,27,28,unclassified,nan,351.8
+252,27,265,unclassified,nan,241.3
+253,27,280,unclassified,nan,204.4
+231,28,265,trunk,nan,118.4
+232,28,213,trunk,nan,46.6
+22,29,30,residential,nan,143.0
+547,29,456,trunk,Madurai Salai,54.4
+548,29,195,trunk,Madurai Salai,301.4
+23,30,31,residential,nan,127.2
+236,31,268,tertiary,nan,29.1
+237,31,269,tertiary,nan,6.0
+24,32,33,residential,nan,7.4
+175,32,219,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),20.5
+176,32,220,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),212.8
+25,33,34,residential,nan,181.1
+268,33,289,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),52.9
+269,33,290,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),21.1
+258,34,285,unclassified,nan,81.9
+259,34,286,unclassified,nan,50.5
+625,34,308,residential,nan,114.3
+26,35,36,track,nan,9.7
+187,35,227,unclassified,nan,313.0
+27,36,37,track,nan,440.5
+295,36,307,track,nan,238.6
+28,37,38,track,nan,376.8
+473,37,437,track,nan,142.9
+29,39,40,residential,nan,135.0
+322,39,132,residential,nan,13.6
+323,39,332,residential,nan,64.1
+30,41,42,tertiary,nan,74.1
+567,41,165,tertiary,nan,89.7
+568,41,474,tertiary,nan,129.8
+31,42,43,tertiary,nan,36.7
+611,42,477,residential,nan,211.4
+32,43,44,tertiary,nan,43.1
+573,43,477,residential,nan,181.5
+33,44,45,tertiary,nan,111.6
+38,44,52,residential,nan,153.3
+34,45,46,tertiary,nan,36.0
+118,45,158,residential,nan,282.2
+35,46,47,tertiary,nan,2494.1
+117,46,158,residential,nan,259.1
+36,48,49,residential,nan,123.6
+42,48,59,residential,nan,26.6
+43,48,60,residential,nan,56.6
+181,49,224,residential,nan,53.5
+182,49,60,residential,nan,87.8
+37,50,51,residential,nan,49.5
+600,50,154,residential,nan,33.0
+601,50,484,residential,nan,10.3
+39,53,54,unclassified,nan,186.9
+483,53,442,unclassified,nan,227.7
+219,54,180,secondary,Theni Bypass Road,661.8
+220,54,254,secondary,Theni Bypass Road,240.4
+349,54,348,tertiary,nan,311.0
+40,55,56,residential,nan,139.6
+189,55,83,residential,nan,116.2
+190,55,230,residential,nan,25.1
+440,56,129,residential,nan,95.2
+441,56,407,residential,nan,24.4
+41,57,58,residential,nan,101.8
+331,57,134,residential,nan,127.9
+477,57,439,residential,nan,26.6
+478,57,440,residential,nan,19.0
+203,58,240,tertiary,nan,10.7
+204,58,241,tertiary,nan,30.6
+44,60,61,residential,nan,45.8
+45,61,62,residential,nan,40.1
+538,61,465,residential,nan,51.3
+46,62,63,residential,nan,57.9
+607,62,492,residential,nan,51.9
+47,63,64,residential,nan,54.1
+86,63,122,residential,nan,125.9
+48,64,65,residential,nan,33.0
+122,64,126,residential,nan,49.6
+123,64,122,residential,nan,153.6
+49,65,66,residential,nan,6.1
+91,65,126,residential,nan,84.0
+50,67,68,residential,nan,54.6
+594,67,88,residential,nan,39.6
+51,68,69,residential,nan,52.4
+52,69,70,residential,nan,46.4
+554,69,301,residential,nan,124.0
+53,70,71,residential,nan,63.3
+514,70,74,residential,nan,45.0
+54,72,73,residential,nan,48.0
+597,72,473,residential,nan,142.8
+598,72,161,residential,nan,48.1
+55,74,75,residential,nan,38.1
+515,74,76,residential,nan,38.9
+56,76,77,residential,nan,171.3
+516,76,458,residential,nan,35.0
+88,77,123,residential,nan,39.9
+89,77,124,residential,nan,67.9
+57,78,79,track,nan,50.0
+576,78,480,track,nan,324.8
+590,79,112,track,nan,354.3
+58,80,81,residential,nan,211.1
+260,80,286,unclassified,nan,147.9
+261,80,210,unclassified,nan,75.0
+266,81,211,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),55.9
+267,81,289,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),162.1
+475,81,220,residential,nan,6.8
+59,82,83,unclassified,nan,115.2
+138,82,179,tertiary,nan,48.7
+215,82,251,tertiary,nan,63.3
+439,82,129,residential,nan,38.2
+60,83,84,unclassified,nan,17.0
+61,84,85,unclassified,nan,60.8
+424,84,404,residential,nan,200.6
+62,85,86,unclassified,nan,111.4
+425,85,404,unclassified,nan,141.5
+63,87,88,residential,nan,38.1
+596,87,299,residential,nan,92.4
+64,89,90,residential,nan,127.0
+557,89,440,residential,nan,12.1
+558,89,184,residential,nan,54.8
+143,90,184,unclassified,nan,93.1
+144,90,185,unclassified,nan,45.5
+65,91,92,residential,nan,99.8
+96,91,133,residential,nan,15.2
+97,91,134,residential,nan,24.3
+66,93,94,residential,nan,264.6
+310,93,319,residential,nan,123.9
+328,93,334,residential,nan,34.6
+67,94,95,residential,nan,37.7
+355,94,353,residential,nan,143.2
+68,95,96,residential,nan,49.6
+484,95,443,residential,nan,237.6
+347,96,186,tertiary,nan,42.0
+348,96,348,tertiary,nan,377.9
+489,97,99,residential,nan,12.3
+490,97,445,residential,nan,48.7
+488,99,326,residential,nan,31.8
+586,100,101,road,nan,77.8
+585,101,352,road,nan,18.5
+73,102,103,residential,nan,354.4
+312,102,322,residential,nan,104.4
+313,102,323,residential,nan,10.4
+186,103,226,residential,nan,125.1
+196,103,233,tertiary,nan,75.9
+197,103,235,tertiary,nan,113.0
+74,104,105,service,nan,55.3
+161,104,205,service,nan,171.2
+162,104,206,service,nan,57.7
+75,105,106,service,nan,200.9
+383,105,205,service,nan,281.6
+76,107,108,residential,nan,134.9
+570,108,160,residential,nan,37.1
+571,108,147,residential,nan,88.2
+77,109,110,residential,nan,136.0
+529,109,156,trunk,nan,34.0
+530,109,453,trunk,nan,46.7
+78,111,112,residential,nan,377.8
+172,111,217,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),89.8
+173,111,218,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),91.1
+79,112,113,residential,nan,250.2
+80,114,115,residential,nan,198.4
+84,115,120,residential,nan,328.1
+85,115,121,residential,nan,182.2
+81,116,117,trunk,Madurai Salai,1172.9
+82,117,118,trunk,Madurai Salai,578.2
+159,117,181,service,nan,14.6
+83,118,119,trunk,Madurai Salai,50.1
+218,118,180,secondary,Theni Bypass Road,16.0
+139,119,180,trunk,Madurai Salai,53.6
+428,119,279,trunk,Madurai Salai,20.1
+87,122,123,residential,nan,38.0
+121,123,162,residential,nan,50.2
+90,125,126,residential,nan,70.1
+92,127,128,residential,nan,127.3
+531,127,453,trunk,nan,50.3
+532,127,420,trunk,nan,19.9
+93,129,130,residential,nan,74.5
+94,130,131,residential,nan,90.6
+419,130,178,residential,nan,56.2
+420,131,175,residential,nan,80.7
+421,131,401,residential,nan,67.0
+95,132,133,residential,nan,41.0
+321,132,331,residential,nan,65.3
+480,133,439,residential,nan,102.0
+98,134,135,residential,nan,3.7
+339,135,185,residential,nan,73.1
+316,137,326,residential,nan,70.0
+101,138,139,trunk,nan,1262.3
+102,139,140,trunk,nan,61.3
+462,139,425,residential,nan,86.9
+463,139,434,residential,nan,9.8
+103,140,141,trunk,nan,42.5
+459,140,426,residential,nan,108.0
+460,140,432,residential,nan,11.1
+104,141,142,trunk,nan,93.3
+457,141,428,residential,nan,124.4
+458,141,431,residential,nan,8.1
+105,142,143,trunk,nan,107.7
+444,142,419,residential,nan,159.4
+445,142,420,residential,nan,9.7
+106,143,144,trunk,nan,237.3
+609,143,494,residential,nan,218.4
+107,144,145,trunk,nan,42.1
+517,144,459,residential,nan,176.2
+108,145,146,trunk,nan,49.2
+292,145,306,residential,nan,278.4
+109,146,147,trunk,nan,109.7
+417,146,399,residential,nan,294.1
+418,146,400,residential,nan,10.1
+110,147,148,trunk,nan,410.7
+591,147,452,residential,nan,7.0
+111,148,149,trunk,nan,87.0
+562,148,461,tertiary,nan,8.6
+363,149,263,trunk,nan,68.4
+112,150,151,residential,nan,34.3
+113,151,152,residential,nan,38.3
+513,151,457,residential,nan,32.9
+114,152,153,residential,nan,77.0
+537,152,464,residential,nan,54.5
+284,153,225,residential,nan,81.6
+115,154,155,residential,nan,257.4
+599,154,161,residential,nan,31.8
+565,155,473,tertiary,nan,156.7
+566,155,165,tertiary,nan,187.1
+116,156,157,residential,nan,121.1
+528,156,462,trunk,nan,212.3
+119,158,159,residential,nan,119.0
+120,160,161,residential,nan,324.9
+569,160,475,residential,nan,111.0
+124,163,164,residential,nan,66.7
+125,164,165,residential,nan,127.4
+587,164,484,residential,nan,293.7
+588,164,485,residential,nan,28.2
+126,166,167,residential,nan,209.1
+619,166,194,tertiary,nan,72.2
+620,166,347,tertiary,nan,4.5
+127,168,169,residential,nan,196.5
+221,168,254,secondary,Theni Bypass Road,67.4
+222,168,255,secondary,Theni Bypass Road,51.5
+128,169,170,residential,nan,32.8
+578,169,255,residential,nan,148.9
+579,169,172,residential,nan,114.2
+129,170,171,residential,nan,146.7
+130,170,172,residential,nan,148.5
+223,171,255,secondary,Theni Bypass Road,40.2
+224,171,256,secondary,Theni Bypass Road,3029.5
+580,172,481,residential,nan,420.7
+233,173,266,tertiary,nan,39.0
+412,173,395,residential,nan,84.4
+481,173,382,residential,nan,80.9
+133,174,175,tertiary,nan,48.8
+406,174,387,residential,nan,120.3
+134,175,176,tertiary,nan,21.2
+403,175,386,residential,nan,134.1
+135,176,177,tertiary,nan,41.0
+404,176,385,residential,nan,143.5
+136,177,178,tertiary,nan,25.9
+405,177,384,residential,nan,159.1
+137,178,179,tertiary,nan,23.4
+410,179,251,residential,nan,100.1
+140,180,181,trunk,Madurai Salai,575.9
+141,181,182,trunk,Madurai Salai,1172.0
+160,181,205,service,nan,26.7
+142,183,184,unclassified,nan,99.1
+205,183,241,tertiary,nan,82.9
+206,183,242,tertiary,nan,71.4
+145,185,186,unclassified,nan,335.1
+340,185,343,residential,nan,70.0
+346,186,347,tertiary,nan,73.2
+146,187,188,residential,nan,107.4
+208,187,191,tertiary,nan,55.2
+209,187,243,tertiary,nan,298.8
+147,188,189,residential,nan,129.6
+357,188,344,residential,nan,180.8
+148,189,190,residential,nan,128.5
+342,189,192,residential,nan,53.5
+343,189,344,residential,nan,54.0
+351,190,349,residential,nan,44.3
+352,190,193,residential,nan,66.8
+149,191,192,residential,nan,237.2
+207,191,242,tertiary,nan,82.0
+150,192,193,residential,nan,155.3
+341,192,343,residential,nan,81.5
+151,193,194,residential,nan,113.4
+618,194,450,tertiary,nan,27.4
+152,195,196,residential,nan,11.3
+549,195,257,trunk,Madurai Salai,33.5
+153,196,197,residential,nan,105.9
+245,196,275,trunk,Madurai Salai,141.2
+246,196,276,trunk,Madurai Salai,45.5
+154,198,199,residential,nan,153.0
+275,198,295,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),134.9
+276,198,296,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),149.9
+155,199,200,residential,nan,72.5
+621,199,276,residential,nan,196.7
+156,200,201,residential,nan,242.5
+192,200,232,residential,nan,244.1
+509,201,232,unclassified,nan,355.2
+510,201,455,unclassified,nan,52.5
+157,202,203,residential,nan,40.8
+158,203,204,residential,nan,127.3
+498,203,338,residential,nan,155.4
+499,203,449,residential,nan,91.4
+333,204,336,residential,nan,5.6
+163,207,208,unclassified,nan,71.5
+194,207,234,tertiary,nan,605.5
+195,207,233,tertiary,nan,81.2
+164,208,209,unclassified,nan,71.3
+185,208,226,residential,nan,56.5
+165,209,210,unclassified,nan,156.8
+464,209,435,residential,nan,112.3
+166,210,211,unclassified,nan,221.7
+262,210,287,unclassified,nan,1250.8
+167,211,212,unclassified,nan,5.0
+265,211,287,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),912.6
+177,212,220,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),57.4
+178,212,221,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),913.6
+168,213,214,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),32.8
+293,213,297,trunk,Madurai Salai,18.2
+169,214,215,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),286.6
+371,214,297,trunk_link,nan,20.7
+170,215,216,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),31.7
+360,215,295,service,nan,8.1
+171,216,217,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),85.9
+358,216,294,service,nan,9.2
+507,217,293,unclassified,nan,7.9
+174,218,219,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),240.8
+465,218,292,tertiary,nan,9.7
+303,219,290,residential,nan,7.0
+304,219,314,residential,nan,202.7
+474,220,438,residential,nan,163.3
+179,221,222,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),690.2
+263,221,287,unclassified,nan,8.8
+581,223,467,residential,nan,105.7
+552,224,468,residential,nan,32.8
+285,225,301,residential,nan,43.7
+193,226,233,residential,nan,64.5
+188,228,229,trunk,Madurai Salai,16.0
+370,228,297,trunk_link,nan,11.6
+551,228,359,trunk,Madurai Salai,67.5
+278,229,297,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),17.9
+365,229,360,trunk,nan,71.0
+191,230,231,residential,nan,96.9
+429,230,407,residential,nan,139.9
+432,231,410,residential,nan,77.0
+433,231,411,residential,nan,9.5
+508,232,293,unclassified,nan,175.7
+198,235,236,tertiary,nan,4.3
+297,235,309,residential,nan,94.8
+199,236,237,tertiary,nan,29.7
+296,236,308,residential,nan,166.0
+200,237,238,tertiary,nan,9.7
+299,237,311,residential,nan,96.0
+201,238,239,tertiary,nan,21.7
+626,238,308,residential,nan,125.5
+202,239,240,tertiary,nan,30.9
+306,239,316,residential,nan,22.5
+479,240,439,residential,nan,100.0
+556,241,440,residential,nan,100.5
+470,242,317,tertiary,nan,67.9
+471,242,343,tertiary,nan,237.9
+210,243,244,tertiary,nan,174.9
+350,243,346,residential,nan,62.4
+373,244,362,residential,nan,166.9
+615,244,368,tertiary,nan,233.3
+616,244,451,tertiary,nan,47.7
+211,245,246,residential,nan,131.8
+212,247,248,primary,Theni - Venkatachalapuram - Chinnamanur Road,305.9
+213,248,249,primary,Theni - Venkatachalapuram - Chinnamanur Road,128.8
+423,248,403,residential,nan,59.1
+214,249,250,primary,Theni - Venkatachalapuram - Chinnamanur Road,14.4
+540,249,408,trunk,Madurai Salai,97.9
+541,249,405,trunk,Madurai Salai,327.8
+250,250,253,trunk,Madurai Salai,481.6
+251,250,279,trunk,Madurai Salai,106.9
+216,251,252,tertiary,nan,225.3
+217,252,253,tertiary,nan,12.8
+542,252,405,trunk,Madurai Salai,151.3
+543,252,466,trunk,Madurai Salai,226.3
+249,253,278,trunk,Madurai Salai,224.8
+255,254,282,residential,nan,262.3
+225,257,258,residential,nan,230.9
+550,257,359,trunk,Madurai Salai,42.7
+239,258,270,tertiary,nan,276.5
+240,258,271,tertiary,nan,50.1
+226,259,260,residential,nan,270.0
+279,259,298,residential,nan,138.3
+280,259,299,residential,nan,128.6
+526,260,400,trunk,nan,7.0
+527,260,462,trunk,nan,64.6
+228,261,262,residential,nan,185.8
+624,261,337,residential,nan,51.5
+495,262,448,residential,nan,77.4
+496,262,282,residential,nan,164.2
+229,263,264,trunk,nan,34.9
+230,264,265,trunk,nan,110.5
+244,264,274,tertiary,nan,14.7
+234,266,267,tertiary,nan,57.6
+407,266,392,residential,nan,33.6
+235,267,268,tertiary,nan,34.1
+390,267,377,track,nan,28.8
+391,268,378,track,nan,34.1
+238,269,270,tertiary,nan,20.1
+393,269,380,track,nan,19.5
+415,270,397,residential,nan,98.2
+241,271,272,tertiary,nan,130.8
+389,271,374,residential,nan,169.0
+242,272,273,tertiary,nan,12.7
+386,272,374,residential,nan,187.3
+243,273,274,tertiary,nan,111.2
+289,273,305,residential,nan,115.4
+367,274,305,trunk,nan,164.4
+368,274,357,trunk,nan,46.0
+294,275,297,trunk,Madurai Salai,12.5
+369,275,296,trunk_link,nan,15.2
+247,276,277,trunk,Madurai Salai,310.3
+248,277,278,trunk,Madurai Salai,241.8
+511,277,455,unclassified,nan,191.9
+512,277,456,unclassified,nan,9.9
+612,278,466,tertiary,nan,12.4
+613,278,369,tertiary,nan,108.9
+539,279,408,trunk,Madurai Salai,24.8
+254,280,281,unclassified,nan,40.2
+593,281,489,unclassified,nan,15.2
+497,282,338,residential,nan,69.0
+256,283,284,unclassified,nan,39.2
+466,283,292,tertiary,nan,176.3
+467,283,355,tertiary,nan,92.7
+257,284,285,unclassified,nan,136.2
+577,284,291,residential,nan,177.1
+305,285,315,residential,nan,96.3
+291,286,289,residential,nan,187.2
+264,287,288,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),333.1
+270,290,291,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),195.3
+271,291,292,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),45.1
+272,292,293,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),180.2
+273,293,294,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),89.8
+359,294,295,service,nan,351.8
+277,296,297,primary,Dindigul - Vathalagundu - Theni Road (Old NH45),19.7
+524,298,452,trunk,nan,23.6
+525,298,400,trunk,nan,83.6
+281,299,300,residential,nan,138.2
+286,301,302,residential,nan,7.1
+287,302,303,residential,nan,26.2
+438,302,416,track,nan,17.8
+288,303,304,residential,nan,8.5
+592,303,488,track,nan,64.3
+366,305,360,trunk,nan,36.5
+605,306,486,residential,nan,2.2
+606,306,491,residential,nan,99.6
+298,309,310,residential,nan,25.0
+301,309,311,residential,nan,32.6
+300,311,312,residential,nan,45.2
+302,311,313,residential,nan,32.8
+324,313,332,residential,nan,5.1
+325,313,316,residential,nan,73.8
+307,317,318,residential,nan,202.3
+469,317,436,tertiary,nan,10.9
+308,319,320,residential,nan,37.3
+311,319,322,residential,nan,34.6
+309,320,321,residential,nan,10.5
+326,320,333,residential,nan,204.0
+519,322,334,residential,nan,122.1
+314,324,325,residential,nan,41.5
+487,324,326,residential,nan,62.1
+318,327,328,residential,nan,30.5
+319,327,329,residential,nan,13.5
+320,327,330,residential,nan,86.3
+330,330,335,residential,nan,41.4
+476,332,439,residential,nan,32.5
+329,334,335,residential,nan,39.5
+584,335,483,residential,nan,67.6
+622,335,339,residential,nan,293.9
+335,337,338,residential,nan,87.6
+336,339,340,residential,nan,28.4
+623,339,444,residential,nan,140.7
+337,340,341,residential,nan,63.8
+338,340,342,residential,nan,90.4
+472,343,347,tertiary,nan,305.4
+344,344,345,residential,nan,40.1
+345,345,346,residential,nan,4.0
+506,345,451,residential,nan,225.8
+501,348,350,residential,nan,59.3
+353,350,351,residential,nan,83.5
+500,350,449,residential,nan,32.9
+354,351,352,residential,nan,95.5
+356,351,354,residential,nan,38.0
+560,354,449,residential,nan,53.3
+561,354,472,residential,nan,75.4
+361,355,356,residential,nan,134.3
+468,355,436,tertiary,nan,68.7
+362,357,358,trunk,nan,69.4
+522,358,461,trunk,nan,76.6
+364,359,360,service,nan,155.3
+372,361,362,residential,nan,44.4
+378,361,365,residential,nan,169.7
+379,361,367,residential,nan,46.9
+374,362,363,residential,nan,247.7
+375,363,364,residential,nan,275.1
+376,363,365,residential,nan,122.2
+377,365,366,residential,nan,42.7
+381,366,367,residential,nan,170.2
+382,366,369,residential,nan,420.8
+380,367,368,residential,nan,103.1
+614,368,369,tertiary,nan,74.4
+384,370,371,construction,nan,1229.4
+385,372,373,construction,nan,1229.4
+387,374,375,residential,nan,266.8
+388,375,376,residential,nan,34.5
+392,375,379,footway,nan,65.8
+394,381,382,track,nan,78.3
+395,383,384,residential,nan,138.3
+396,384,385,residential,nan,17.4
+397,385,386,residential,nan,24.5
+398,386,387,residential,nan,38.9
+400,388,389,footway,nan,19.5
+401,389,390,footway,nan,60.0
+402,389,391,footway,nan,25.4
+408,392,393,residential,nan,59.2
+414,392,397,residential,nan,135.6
+409,393,394,residential,nan,37.3
+411,393,395,residential,nan,34.3
+413,395,396,residential,nan,39.3
+416,397,398,residential,nan,110.6
+572,399,476,residential,nan,85.0
+603,399,490,residential,nan,35.4
+604,399,486,residential,nan,42.1
+422,401,402,residential,nan,12.9
+443,401,418,residential,nan,243.4
+426,404,405,unclassified,nan,132.0
+427,404,406,residential,nan,59.6
+442,407,417,residential,nan,226.2
+430,408,409,unclassified,nan,1874.4
+434,411,412,residential,nan,33.6
+437,411,415,residential,nan,70.3
+435,412,413,residential,nan,15.7
+436,412,414,residential,nan,81.9
+453,419,421,residential,nan,44.8
+454,419,422,residential,nan,328.2
+533,420,431,trunk,nan,93.6
+446,421,422,residential,nan,297.9
+452,421,428,residential,nan,38.6
+455,422,429,residential,nan,95.2
+447,423,424,residential,nan,265.2
+449,423,426,residential,nan,18.3
+450,423,427,residential,nan,23.7
+448,425,426,residential,nan,74.3
+461,425,433,residential,nan,236.3
+451,427,428,residential,nan,6.7
+456,427,430,residential,nan,219.2
+534,431,432,trunk,nan,41.0
+535,432,434,trunk,nan,60.2
+536,434,463,trunk,nan,1277.1
+583,436,482,residential,nan,199.9
+482,441,442,unclassified,nan,477.1
+518,442,460,residential,nan,614.0
+491,445,446,residential,nan,64.4
+492,446,447,residential,nan,36.2
+494,447,448,residential,nan,195.3
+617,450,451,tertiary,nan,142.0
+523,452,461,trunk,nan,415.7
+505,453,454,service,nan,135.2
+574,455,478,residential,nan,40.4
+575,455,479,residential,nan,259.4
+546,456,467,trunk,Madurai Salai,86.2
+553,462,468,residential,nan,214.9
+555,469,470,trunk,Theni Puravazhi Saalai,451.4
+610,477,495,residential,nan,23.6
+602,484,490,residential,nan,39.8
+589,486,487,residential,nan,228.4
+608,490,493,residential,nan,92.9
